@@ -1,0 +1,373 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "js",
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+  },
+  "images": {
+    "scheme": "files",
+    "publicDir": "../../public",
+    "publicUrlPrefix": "/static/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "src/components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "it8wKNwdwafZt73hiEPwUt",
+      "projectApiToken": "mGrQRhe9EyBGlr8ya89UFEVTAAuNxUsndZ8eG3oMK9mLCFzgG0utcSEgbgIVJ68ImjnARkK3t4OhaV5YLQ",
+      "projectName": "Blank project",
+      "version": "latest",
+      "cssFilePath": "plasmic/blank_project/plasmic_blank_project.module.css",
+      "components": [
+        {
+          "id": "m-mvLf1xdKuM",
+          "name": "Homepage",
+          "type": "managed",
+          "projectId": "it8wKNwdwafZt73hiEPwUt",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicHomepage.jsx",
+          "importSpec": {
+            "modulePath": "Homepage.jsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        }
+      ],
+      "icons": [
+        {
+          "id": "1JnmYMEAw",
+          "name": "Topology1Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Topology1.jsx"
+        },
+        {
+          "id": "wWnnFnd6K4",
+          "name": "Union2Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Union2.jsx"
+        },
+        {
+          "id": "w_ySx-x0LY",
+          "name": "Union5Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Union5.jsx"
+        },
+        {
+          "id": "8996ZNBw63",
+          "name": "Line82Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Line82.jsx"
+        },
+        {
+          "id": "ApTLFc7gee",
+          "name": "Ellipse287Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Ellipse287.jsx"
+        },
+        {
+          "id": "jmpH7tc7zE",
+          "name": "Line75Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Line75.jsx"
+        },
+        {
+          "id": "KA25P20g0nj",
+          "name": "Line81Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Line81.jsx"
+        },
+        {
+          "id": "sVm1ItQcXTc",
+          "name": "Line85Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Line85.jsx"
+        },
+        {
+          "id": "8AoRpPPHmZM",
+          "name": "Line87Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Line87.jsx"
+        },
+        {
+          "id": "fYd8WGLsGAz",
+          "name": "Line76Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Line76.jsx"
+        },
+        {
+          "id": "d09mZP7-mcI",
+          "name": "VectorIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Vector.jsx"
+        },
+        {
+          "id": "Ah8Kqz2GZoh",
+          "name": "Line73Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Line73.jsx"
+        },
+        {
+          "id": "xv5sKZ4mc6f",
+          "name": "Line78Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Line78.jsx"
+        },
+        {
+          "id": "Bzqcv8-KwH-",
+          "name": "Union8Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Union8.jsx"
+        },
+        {
+          "id": "9UCn58LuGPT",
+          "name": "Union9Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Union9.jsx"
+        },
+        {
+          "id": "QYnnlufmzWe",
+          "name": "Union11Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Union11.jsx"
+        },
+        {
+          "id": "JfUOuZeVm7m",
+          "name": "Union12Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Union12.jsx"
+        },
+        {
+          "id": "ov_CJHB2xP_",
+          "name": "Rectangle22704Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Rectangle22704.jsx"
+        },
+        {
+          "id": "88tPlVi7QMZ",
+          "name": "Ellipse288Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Ellipse288.jsx"
+        },
+        {
+          "id": "oXOL5hlVVSt",
+          "name": "Line80Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Line80.jsx"
+        },
+        {
+          "id": "etfstOJ8gFx",
+          "name": "Ellipse303Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Ellipse303.jsx"
+        },
+        {
+          "id": "Jpb2hnNjELx",
+          "name": "Union14Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Union14.jsx"
+        },
+        {
+          "id": "JarXmWTlN3U",
+          "name": "Union15Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Union15.jsx"
+        }
+      ],
+      "images": [
+        {
+          "id": "g-7T4mJX7",
+          "name": "bshares",
+          "filePath": "plasmic/blank_project/images/bshares.png"
+        },
+        {
+          "id": "8oWWHreKbA",
+          "name": "bbond",
+          "filePath": "plasmic/blank_project/images/bbond.png"
+        },
+        {
+          "id": "Duyg4VN-wk",
+          "name": "bomb",
+          "filePath": "plasmic/blank_project/images/bomb.png"
+        },
+        {
+          "id": "UXYkar1BXX",
+          "name": "wMetaMask",
+          "filePath": "plasmic/blank_project/images/wMetaMask.png"
+        },
+        {
+          "id": "f0yE2WiITs",
+          "name": "bomb-bitcoin-LP",
+          "filePath": "plasmic/blank_project/images/bombBitcoinLp.png"
+        },
+        {
+          "id": "aqIf2ZoTkB",
+          "name": "bshare-bnb-LP",
+          "filePath": "plasmic/blank_project/images/bshareBnbLp.png"
+        },
+        {
+          "id": "A_CtsLaSXC",
+          "name": "pw4945914 1",
+          "filePath": "plasmic/blank_project/images/pw49459141.png"
+        },
+        {
+          "id": "5Br0dHINd0",
+          "name": "ww2991106 1",
+          "filePath": "plasmic/blank_project/images/ww29911061.png"
+        },
+        {
+          "id": "HXkanzHMh5",
+          "name": "Group 3055",
+          "filePath": "plasmic/blank_project/images/group3055.bin"
+        },
+        {
+          "id": "o6Ga6DYM1h",
+          "name": "Topology-1 2",
+          "filePath": "plasmic/blank_project/images/topology12.bin"
+        },
+        {
+          "id": "D6gR6qAw3B",
+          "name": "Topology-1 3",
+          "filePath": "plasmic/blank_project/images/topology13.bin"
+        },
+        {
+          "id": "h4UOy82K5m",
+          "name": "Union",
+          "filePath": "plasmic/blank_project/images/union.bin"
+        },
+        {
+          "id": "9CL4LF8v81",
+          "name": "Union 3",
+          "filePath": "plasmic/blank_project/images/union3.bin"
+        },
+        {
+          "id": "KLRqaEm5yN",
+          "name": "Union 4",
+          "filePath": "plasmic/blank_project/images/union4.bin"
+        },
+        {
+          "id": "QzQBCBhuaV",
+          "name": "Union 6",
+          "filePath": "plasmic/blank_project/images/union6.bin"
+        },
+        {
+          "id": "9N80nnT7Uj",
+          "name": "Rectangle 22665",
+          "filePath": "plasmic/blank_project/images/rectangle22665.bin"
+        },
+        {
+          "id": "JPrbMIFvGD",
+          "name": "Icon / arrow-down-circle",
+          "filePath": "plasmic/blank_project/images/iconArrowDownCircle.bin"
+        },
+        {
+          "id": "YobaFuDm26",
+          "name": "Icon / arrow-down-circle 2",
+          "filePath": "plasmic/blank_project/images/iconArrowDownCircle2.bin"
+        },
+        {
+          "id": "Fb5BWkVAQCd",
+          "name": "Rectangle 22664",
+          "filePath": "plasmic/blank_project/images/rectangle22664.bin"
+        },
+        {
+          "id": "ZoZqkrfQBTp",
+          "name": "Ellipse 245",
+          "filePath": "plasmic/blank_project/images/ellipse245.bin"
+        },
+        {
+          "id": "LuWdpOSLFOe",
+          "name": "Union 7",
+          "filePath": "plasmic/blank_project/images/union7.bin"
+        },
+        {
+          "id": "diyEuKS-idH",
+          "name": "Vector 2",
+          "filePath": "plasmic/blank_project/images/vector2.bin"
+        },
+        {
+          "id": "Bli0-6oE0lN",
+          "name": "Mask Group",
+          "filePath": "plasmic/blank_project/images/maskGroup.bin"
+        },
+        {
+          "id": "fraWzkEDTHP",
+          "name": "Icon / arrow-down-circle 3",
+          "filePath": "plasmic/blank_project/images/iconArrowDownCircle3.bin"
+        },
+        {
+          "id": "66z0Y4Xmkyl",
+          "name": "Icon / arrow-down-circle 4",
+          "filePath": "plasmic/blank_project/images/iconArrowDownCircle4.bin"
+        },
+        {
+          "id": "oDg7GNKHjdU",
+          "name": "Union 10",
+          "filePath": "plasmic/blank_project/images/union10.bin"
+        },
+        {
+          "id": "CF_2Ccicofx",
+          "name": "Vector 3",
+          "filePath": "plasmic/blank_project/images/vector3.bin"
+        },
+        {
+          "id": "IJHoEksC8si",
+          "name": "Mask Group 2",
+          "filePath": "plasmic/blank_project/images/maskGroup2.bin"
+        },
+        {
+          "id": "mtoDdHGc_s6",
+          "name": "Icon / arrow-down-circle 5",
+          "filePath": "plasmic/blank_project/images/iconArrowDownCircle5.bin"
+        },
+        {
+          "id": "2t01FDZwcin",
+          "name": "Icon / arrow-down-circle 6",
+          "filePath": "plasmic/blank_project/images/iconArrowDownCircle6.bin"
+        },
+        {
+          "id": "e3E4PbP5BQN",
+          "name": "Vector 4",
+          "filePath": "plasmic/blank_project/images/vector4.bin"
+        },
+        {
+          "id": "6I-Zq-EOiUq",
+          "name": "Icon / shopping-cart",
+          "filePath": "plasmic/blank_project/images/iconShoppingCart.bin"
+        },
+        {
+          "id": "S_BlIKsq5m4",
+          "name": "Icon / arrow-down-circle 7",
+          "filePath": "plasmic/blank_project/images/iconArrowDownCircle7.bin"
+        },
+        {
+          "id": "-iSTlF5vk_a",
+          "name": "Union 13",
+          "filePath": "plasmic/blank_project/images/union13.bin"
+        },
+        {
+          "id": "sDJ54-U1oSi",
+          "name": "Vector 5",
+          "filePath": "plasmic/blank_project/images/vector5.bin"
+        },
+        {
+          "id": "Mw7voSjZAGe",
+          "name": "Mask Group 3",
+          "filePath": "plasmic/blank_project/images/maskGroup3.bin"
+        }
+      ],
+      "indirect": false,
+      "globalContextsFilePath": "",
+      "codeComponents": [
+        {
+          "id": "I2xv9LZnja",
+          "name": "PlasmicHead",
+          "componentImportPath": "@plasmicapp/react-web"
+        },
+        {
+          "id": "3CJJJjna8J",
+          "name": "Fetcher",
+          "componentImportPath": "@plasmicapp/react-web/lib/data-sources"
+        }
+      ]
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "4RCkaOwzQB_CE",
+        "name": "Screen",
+        "projectId": "it8wKNwdwafZt73hiEPwUt",
+        "contextFilePath": "plasmic/blank_project/PlasmicGlobalVariant__Screen.jsx"
+      }
+    ]
+  },
+  "wrapPagesWithGlobalContexts": true,
+  "cliVersion": "0.1.214",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.214/dist/plasmic.schema.json"
+}
